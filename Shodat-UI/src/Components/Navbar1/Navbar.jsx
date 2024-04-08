@@ -525,7 +525,7 @@ function Navbar() {
           }`}
         >
           <nav
-            className="relative top-0 left-0 w-[78%] md:w-[33%]  bottom-0  flex flex-col   max-w-sm py-6   h-[100%]   px-7 bg-black border-r overflow-y-auto"
+            className="relative top-0 left-0 w-[270px] bottom-0  flex flex-col   max-w-sm py-6   h-[100%]   px-7 bg-black border-r overflow-y-auto"
             style={{
               color: location.pathname === "/platform" ? "white" : "white",
               justifyContent: "flex-start",
